@@ -1,0 +1,5 @@
+name: "my_install_script"
+version: "rolling"
+description: "installer for gmfi"
+# gmfi installer as script
+script: "https://raw.githubusercontent.com/Fynjirby/gmfi/refs/heads/main/install.sh"
